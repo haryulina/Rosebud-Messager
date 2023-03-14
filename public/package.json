@@ -1,0 +1,12 @@
+{
+    "name": "chat",
+    "version": "0.0.1",
+    "description": "chat : Chat Real Time",
+    "dependencies": {
+      "express": "^4.17.1",
+      "socket.io": "^4.3.1"
+    },
+    "script": {
+      "start": "node index.js"
+    }
+  }
